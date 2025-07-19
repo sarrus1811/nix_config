@@ -41,7 +41,6 @@
 
   # Other home manager imports
   # imports = [
-  #   ./themes.nix
-  #   ./fonts.nix
+  #   ...
   # ];
 }
