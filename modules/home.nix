@@ -18,7 +18,6 @@
     nerd-fonts.fira-code
     nerd-fonts.jetbrains-mono
     htop
-    # CLI tools that are user-specific or you prefer to manage with HM
   ];
 
   # Program configurations
