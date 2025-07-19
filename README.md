@@ -6,5 +6,5 @@
 3. Run ```sudo nixos-rebuild switch```
 4. Make a directory (e.g. nix_config) and copy modules folder to it.
 5. Move both configuration.nix and hardware-configuration.nix from /etc/nixos into the directory
-6. Run ```nix flake update```
+6. Run ```sudo nix flake update```
 7. Run ```sudo nixos-rebuild switch --flake .#nix```
